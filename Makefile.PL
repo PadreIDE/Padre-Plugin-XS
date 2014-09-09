@@ -35,7 +35,7 @@ no_index 'directory' => qw{ inc share t };
 
 homepage 'http://padre.perlide.org/trac/wiki/PadrePluginXS';
 bugtracker 'http://padre.perlide.org/';
-repository 'http://svn.perlide.org/padre/trunk/Padre-Plugin-XS';
+repository 'https://github.com/PadreIDE/Padre-Plugin-XS';
 
 install_share_with_mofiles;
 
